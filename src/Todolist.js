@@ -55,7 +55,7 @@ const Todolist = () => {
                             </h1>
                         </th>
                         <th className='p-1 d-flex flex-column'>
-                            <a href="https://stackoverflow.com/questions/57200956/add-link-to-font-awesome-icon-in-reactjs">
+                            <a href="https://github.com/Audi1372/Todolist">
                                 <BsGithub style={{ fontSize: "30px", color: "black" }} />
                             </a>
                             <a href='https://todolist-nine-rust.vercel.app/'>
