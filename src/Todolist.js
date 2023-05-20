@@ -58,7 +58,7 @@ const Todolist = () => {
                             <a href="https://stackoverflow.com/questions/57200956/add-link-to-font-awesome-icon-in-reactjs">
                                 <BsGithub style={{ fontSize: "30px", color: "black" }} />
                             </a>
-                            <a>
+                            <a href='https://todolist-nine-rust.vercel.app/'>
                                 <SiNetlify style={{ fontSize: "30px", color: "black", paddingTop: "5px" }} />
 
                             </a>
